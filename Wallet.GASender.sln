@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet.GASender", "Wallet.GASender.csproj", "{496DC8CD-9395-40C9-80C2-A08F8A58BE86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{496DC8CD-9395-40C9-80C2-A08F8A58BE86}.Staging|Any CPU.Build.0 = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800513A0-FF10-4E66-9F09-F03EB4FA109D}
+	EndGlobalSection
+EndGlobal
